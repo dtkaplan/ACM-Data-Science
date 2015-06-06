@@ -1,0 +1,138 @@
+---
+title: "Macalester’s (Evolving) Data Science Program"
+author: "Danny Kaplan"
+date: "June 6, 2015"
+output: ioslides_presentation
+---
+
+# Background
+
+## The College
+
+* 2000 students. 
+* Selective admissions
+* $> 90$% 6-year graduation rate
+* 10:1 student-faculty ratio, average class size of 17, but ....
+    * this is highly unevenly distributed across programs
+        * MSCS 25, Chem 29, Phys 23, Psych 24, ...
+        * a bunch with ~13
+    
+## The Department
+
+* Joint statistics, computer science, mathematics
+    * most faculty teach in one area, several in two, ....
+* Three majors
+    1. Applied Mathematics and Statistics
+    2. Computer Science
+    3. Theoretical Mathematics
+* Minors: mathematics, statistics, computer science and, now, data science
+* 133 declared majors in Fall 2014, highest in college.
+* 35 AMS grads last year, about 70 in whole department
+* Data science minor approved last month, available to 2016 grads.
+
+# Data Science
+
+## Data science related courses
+
+1. "Survey" course: Data Computing Fundamentals ***
+2. Statistics:
+    * Statistical Modeling (our intro stats course) *
+    * Statistical Computing and machine learning ***
+    * Bayesian Statistics *
+    * Survival Analysis *
+3. Computer Science
+    * Core Concepts of Computer Science (123) *
+    * Data Structures (124) *
+    * Databases (302) **
+    * Computational Linear Algebra (365) ** 
+    * Collective Intelligence (440) ** & AI (484) **
+
+## Data Computing Fundamentals
+
+* A **short** course: 10 class hours, 1 credit hour
+* No pre-requisites
+* Started as key component of our HHMI grant
+* Intended to be a co-requisite for many science courses
+* Capacity this year: 76 students 
+* My goal: reach 200 students per year.
+    * This will require further course development.
+    * The current course is suitable for only highly motivated students
+    * Where to draw faculty from? 
+    
+## Topics in DCF
+
+## Data Science Minor
+
+Minors at Macalester are typically 6 courses plus some integrative experience.
+
+Composition of our new minor:
+
+### Computer Science: 2 courses
+
+* Core concepts
+* one of data structures, databases, comp linear alg., collective intelligence, AI
+
+### Statistics: 2 courses
+    * Statistical modeling
+    * one of stat computing, Bayes, survival 
+
+### Domain expertise: 2 courses
+
+Must have a common theme, e.g. bioinformatics, GIS, ...
+
+Theme can be one where *further* professional work (e.g. grad school) can make use of data science **even if existing course work does not**.
+
+## Pre-Approved Domain Courses:
+
+#### Astronomy
+
+* PHYS 120 (Astronomical Techniques) AND
+* PHYS 440 (Observational Astronomy)
+
+#### Bioinformatics
+
+* BIOL 260 (Genetics) AND 
+* COMP 320 (Computational Biology)
+
+#### Data-Driven Journalism
+
+* MCST 114 (News Reporting and Writing) AND
+* MCST 355 (Advanced Journalism: Electronic) or MCST 357 (Advanced Journalism: Print)
+
+## Pre-Approved Domain Courses:
+
+#### Ecology
+
+* BIOL 285 (Ecology) AND
+* One of: BIOL 342 (Animal Behavior/Ecology), BIOL 344 (Aquatic Ecology), BIOL 345 (Field Botany), BIOL 394 (Soil Ecology)
+
+####Environmental Science and Policy
+
+* ENVI 231 (Environmental Economics and Policy) AND
+* ENVI 133 (Environmental Science) or ENVI 140 (The Earth’s Climate System) or 150 (Climate and Society) or 160 (Dynamical Earth and Global Change) 
+
+## Pre-Approved Domain Courses:
+
+#### Geographic Analytics
+
+* GEOG 225 (Intro to GIS) AND
+* One of: GEOG 262 (Metro Analysis), GEOG 362 (Remote Sensing), GEOG 364 (GIS and Community Partnerships), GEOG 365 (Urban GIS), GEOG 366 (GIS for Global Urban Environments), GEOG 367 (Environmental GIS), GEOG 378 (Statistical Research Methods in Geography), GEOG 368 (Health GIS).
+
+#### Neuroscience
+
+* Two of: PSYC/NEUR 244 (Cognitive Neuroscience), PSYC/NEUR 385 (Mind Reading: Understanding Functional Magnetic Resonance Imaging)
+
+## Pre-Approved Domain Courses:
+
+#### Political Analytics
+
+* POLI 214 (Cyberpolitics) AND
+* POLI 269 (Empirical Research Methods)
+
+#### Quantitative Economics
+
+* Two of: ECON 358 (Securities analysis), ECON 381 (Econometrics), ECON 420 (Quantitative Macroeconomics), ECON 485 (Empirical finance)
+
+#### Quantitative Public Health
+
+* Two of: BIOL 355 (Virology), BIOL 357 (Immunology), GEOG 256 (Medical Geography), MATH 125 (Epidemiology)
