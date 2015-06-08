@@ -11,7 +11,7 @@ output: ioslides_presentation
 
 * 2000 students. 
 * Selective admissions
-* $> 90$% 6-year graduation rate
+* > 90% 6-year graduation rate
 * 10:1 student-faculty ratio, average class size of 17, but ....
     * this is highly unevenly distributed across programs
         * MSCS 25, Chem 29, Phys 23, Psych 24, ...

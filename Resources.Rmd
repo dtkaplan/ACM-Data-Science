@@ -1,5 +1,9 @@
 # Resources for the ACM Data Science group
 
+## Luther College meeting
+
+[Shared notes document](https://docs.google.com/document/d/10_HJQxMKCmUtjKeJqvrhDK9pGNVAHjJN6sEHaiUsdls/edit?usp=sharing)
+
 ## Data
 
 ### Iowa
